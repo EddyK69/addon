@@ -6,4 +6,4 @@ Please read the Documentation tab about the installation as it's important that 
 
 Documentation: https://pethublocal.github.io/addon
 
-Code: https://github.com/PetHubLocal/pethublocal
+Code: https://github.com/EddyK69/pethublocal
